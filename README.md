@@ -6,6 +6,6 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on developing a multithreaded c++ webscraper
-📫 How to reach me: jonathanmckesey@gmail.com
-📚 Currently reading: Operating Systems in Three Easy Pieces | TCP/IP Illustrated | learncpp.com
+- 🔭 I’m currently working on developing a multithreaded c++ webscraper
+- 📫 How to reach me: jonathanmckesey@gmail.com
+- 📚 Currently reading: Operating Systems in Three Easy Pieces | TCP/IP Illustrated | learncpp.com
