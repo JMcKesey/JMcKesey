@@ -14,7 +14,7 @@
     text, tspan { white-space: pre; }
   </style>
   
-  <rect width="985px" height="450px" fill="#f6f8fa" rx="15"/>
+  <rect width="985px" height="400px" fill="#f6f8fa" rx="15"/>
   
   <text x="15" y="30" fill="#24292f" class="ascii">
     <tspan x="15" y="30">..............................</tspan>
