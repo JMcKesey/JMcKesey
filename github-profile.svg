@@ -19,10 +19,10 @@
   <!-- ASCII Art Left -->
   <g class="ascii-left">
     <text x="15" y="30" fill="#24292f" class="ascii">
-      <tspan x="15" y="30">                      -++===:-:-.              </tspan>
-      <tspan x="15" y="50">                  -#@@@@@@@%%@%+-: .        </tspan>
-      <tspan x="15" y="70">                 #@@@@@@@@@@@%%%+--     </tspan>
-      <tspan x="15" y="90">                @@@@@@@@@%%###%#%*+=           </tspan>
+      <tspan x="15" y="30">                      -++===:-:-.                  </tspan>
+      <tspan x="15" y="50">                  -#@@@@@@@%%@%+-: .               </tspan>
+      <tspan x="15" y="70">                 #@@@@@@@@@@@%%%+--                </tspan>
+      <tspan x="15" y="90">                @@@@@@@@@%%###%#%*+=               </tspan>
       <tspan x="15" y="110">               -@@@@@@@@##+*##+#@#*==             </tspan>
       <tspan x="15" y="130">               @@@@@@@@@@++#%++%#%#+-             </tspan>
       <tspan x="15" y="150">               @@@@@@#%@@%*%@%##***+=             </tspan>
@@ -64,7 +64,7 @@
       <tspan x="370" y="350" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">1jonathan</tspan>
       <tspan x="370" y="370">- Currently Reading</tspan> -———————————————————————————————————————————————-
       <tspan x="370" y="390" class="cc">. </tspan><tspan class="key">Book #1</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Operating Systems In Three Easy Pieces</tspan>
-      <tspan x="370" y="410" class="cc">. </tspan><tspan class="key">Book #2</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Learncpp.com</tspan>
+      <tspan x="370" y="410" class="cc">. </tspan><tspan class="key">Book #2</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">Learncpp.com</tspan>
     </text>
   </g>
 </svg>
