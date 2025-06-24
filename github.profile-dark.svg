@@ -48,13 +48,13 @@
       <tspan x="370" y="30">- Jonathan@Mckesey</tspan> -———————————————————————————————————————————————-
       <tspan x="370" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">Windows 11, Linux</tspan>
       <tspan x="370" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ................................................. </tspan><tspan class="value" id="age_data">20 years</tspan>
-      <tspan x="370" y="90" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">Visual Studio 22, IntelliJ</tspan>
+      <tspan x="370" y="90" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> .................................... </tspan><tspan class="value">Visual Studio 22, Cursor</tspan>
       <tspan x="370" y="110" class="cc">. </tspan>
       <tspan x="370" y="130" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">C/C++20, Java, Python, bash</tspan>
       <tspan x="370" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">HTML, CSS, LaTeX</tspan>
       <tspan x="370" y="170" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Real</tspan>:<tspan class="cc"> .................................. </tspan><tspan class="value">English, French</tspan>
-      <tspan x="370" y="190" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">Trading (Stat arb), Multithreaded C/C++</tspan>
-      <tspan x="370" y="210" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Hardware</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Firmware development</tspan>
+      <tspan x="370" y="190" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Software</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">Fullstack, AI agents, and Multithreaded C/C++</tspan>
+      <tspan x="370" y="210" class="cc">. </tspan><tspan class="key">Hobbies</tspan>.<tspan class="key">Outside</tspan>:<tspan class="cc"> ............................. </tspan><tspan class="value">Basketball, Cooking</tspan>
       <tspan x="370" y="230" class="cc">. </tspan>
       <tspan x="370" y="250">- Contact</tspan> -—————————————————————————————————————————————————————————-
       <tspan x="370" y="270" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Personal</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">jonathan.mckesey@gmail.com</tspan>
@@ -63,8 +63,8 @@
       <tspan x="370" y="330" class="cc">. </tspan><tspan class="key">Discord</tspan>:<tspan class="cc"> ............................................... </tspan><tspan class="value">1jonathan</tspan>
       <tspan x="370" y="350" class="cc">. </tspan>
       <tspan x="370" y="370">- Currently Reading</tspan> -———————————————————————————————————————————————-
-      <tspan x="370" y="390" class="cc">. </tspan><tspan class="key">Book #1</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Operating Systems In Three Easy Pieces</tspan>
-      <tspan x="370" y="410" class="cc">. </tspan><tspan class="key">Book #2</tspan>:<tspan class="cc"> ............................................ </tspan><tspan class="value">Learncpp.com</tspan>
+      <tspan x="370" y="390" class="cc">. </tspan><tspan class="key">Book #1</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">System Design by Alex Wu</tspan>
+      <tspan x="370" y="410" class="cc">. </tspan><tspan class="key">Book #2</tspan>:<tspan class="cc"> .................. </tspan><tspan class="value">Operating Systems In Three Easy Pieces</tspan>
     </text>
   </g>
 </svg>
