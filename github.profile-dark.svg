@@ -48,7 +48,7 @@
       <tspan x="370" y="30">- Jonathan@Mckesey</tspan> -——————————————————————————————————————————
       <tspan x="370" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan class="cc"> .................................................... </tspan><tspan class="value">UNIX</tspan>
       <tspan x="370" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ............................................ </tspan><tspan class="value" id="age_data">21 years</tspan>
-      <tspan x="370" y="90" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ................................................... </tspan><tspan class="value">NVIM</tspan>
+      <tspan x="370" y="90" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan class="cc"> ........................................... </tspan><tspan class="value">NVIM, Cursor</tspan>
       <tspan x="370" y="110" class="cc">. </tspan>
       <tspan x="370" y="130" class="cc">. </tspan> <tspan class="key">Languages</tspan>.<tspan class="key">Programming</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">C++20, Python, Golang, bash</tspan>
       <tspan x="370" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>.<tspan class="key">Computer</tspan>:<tspan class="cc"> ........................ </tspan><tspan class="value">HTML, CSS, LaTeX</tspan>
